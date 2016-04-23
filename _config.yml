@@ -1,0 +1,28 @@
+name: Startup Venture Network
+favicon: null
+layout_spectrum: 0.5315514972899109
+typography_spectrum: 0.7011073317844421
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.8995529275853187
+  lightness: 0.10447412799112499
+  saturation: 0.6913981894031167
+  rhythmicContrast: 0.8083075459580868
+purpose: []
