@@ -1,19 +1,4 @@
-name: Startup Venture Network
-favicon: null
-layout_spectrum: 0.50662
 typography_spectrum: 0.7011073317844421
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#fdfdfb'
@@ -25,4 +10,22 @@ color:
   lightness: 0.75
   saturation: 0.6913981894031167
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.50662
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b6fcd129-c5b0-4fa9-bc4f-1dff2d698ca3.png
+name: Startup Venture Network
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Accelerating Your Funding Success
 purpose: []
